@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1702466844108" clover="3.2.0">
+  <project timestamp="1702466844108" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="27" coveredelements="27" complexity="0" loc="15" ncloc="15" packages="1" files="2" classes="2"/>
+    <file name="ErrorRepository.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-containers\src\js\ErrorRepository.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="Team.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-containers\src\js\Team.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="8" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
